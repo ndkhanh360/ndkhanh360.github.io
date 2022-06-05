@@ -2,14 +2,14 @@
 title: "Global-Local Attention for Emotion Recognition"
 collection: publications
 permalink: /publication/glamor-net
-excerpt: 'Propose a new way to extract background information in images under the guidance of facial representation and build a deep learning model to predict human emotions. Achieve an accuracy of 77.90%, which is a 4.38% improvement over previous methods on the CAER-S dataset.'
+excerpt: 'Human emotion recognition is an active research area in artificial intelligence and has made substantial progress over the past few years. Many recent works mainly focus on facial regions to infer human affection, while the surrounding context information is not effectively utilized. In this paper, we proposed a new deep network to effectively recognize human emotions using a novel global-local attention mechanism. Our network is designed to extract features from both facial and context regions independently, then learn them together using the attention module. In this way, both the facial and contextual information is used to infer human emotions, therefore enhancing the discrimination of the classifier. The intensive experiments show that our method surpasses the current state-of-the-art methods on recent emotion datasets by a fair margin. Qualitatively, our global-local attention module can extract more meaningful attention maps than previous methods. The source code and trained model of our network are available at https://github.com/minhnhatvt/glamor-net.'
 date: 2021-11-13
 venue: 'Neural Computing and Applications'
-paperurl: 'https://link.springer.com/article/10.1007/s00521-021-06778-x'
+paperurl: 'http://ndkhanh360.github.io/files/glamornet.pdf'
 citation: 'Nhat Le, Khanh Nguyen, Anh Nguyen, Bac Le (2021). &quot;Global-Local Attention for Emotion Recognition.&quot; <i>Neural Computing and Applications</i>.'
 ---
-Propose a new way to extract background information in images under the guidance of facial representation and build a deep learning model to predict human emotions. Achieve an accuracy of 77.90%, which is a 4.38% improvement over previous methods on the CAER-S dataset.
+Human emotion recognition is an active research area in artificial intelligence and has made substantial progress over the past few years. Many recent works mainly focus on facial regions to infer human affection, while the surrounding context information is not effectively utilized. In this paper, we proposed a new deep network to effectively recognize human emotions using a novel global-local attention mechanism. Our network is designed to extract features from both facial and context regions independently, then learn them together using the attention module. In this way, both the facial and contextual information is used to infer human emotions, therefore enhancing the discrimination of the classifier. The intensive experiments show that our method surpasses the current state-of-the-art methods on recent emotion datasets by a fair margin. Qualitatively, our global-local attention module can extract more meaningful attention maps than previous methods. The source code and trained model of our network are available at https://github.com/minhnhatvt/glamor-net.
 
-[Download paper here](https://link.springer.com/article/10.1007/s00521-021-06778-x)
+[Download paper here](http://ndkhanh360.github.io/files/glamornet.pdf)
 
 **Recommended citation:** Nhat Le, Khanh Nguyen, Anh Nguyen, Bac Le (2021). &quot;Global-Local Attention for Emotion Recognition.&quot; <i>Neural Computing and Applications</i>.
