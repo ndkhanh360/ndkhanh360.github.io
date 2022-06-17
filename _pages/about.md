@@ -12,4 +12,4 @@ I'm a recent graduate from VNUHCM-University of Science, majoring in Information
 
 I'm currently a teaching assistant at the Department of Computer Science, VNUHCM-University of Science. I'm also an AI Resident at FPT Software, working on equivariant models for graphs and point clouds. Previously, I was a research intern at VinAI Research, where I learned about vision & language research as well as scene text recognition. 
 
-My research interests include Computer Vision and Deep Learning in general. I'm always excited and looking for opportunities to work on these field!
+My main research interests include computer vision and deep learning, with applications in scene understanding and tracking, 3D reconstruction, and novel view synthesis. However, I am always open to exploring and working on other exciting research areas!
