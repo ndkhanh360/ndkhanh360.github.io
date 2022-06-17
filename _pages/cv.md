@@ -37,7 +37,7 @@ Work experience
 * Jul. 2019 - Sep. 2019: *Data Scientist Intern (Full-time) @ BioTuring*
   * **Responsibility**: 
     * Indexing studies into the company’s single-cell analytics application’s database
-    * Investigated different methods to predict cell types based on the gene expression.
+    * Investigating different methods to predict cell types based on the gene expression.
   
 Skills
 ======
