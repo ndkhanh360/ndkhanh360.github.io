@@ -12,7 +12,7 @@ I'm a recent graduate from VNUHCM-University of Science, majoring in Information
 
 I'm currently a teaching assistant at the Department of Computer Science, VNUHCM-University of Science. I'm also an AI Resident at FSoft AI Center, working on equivariant models for graphs and point clouds. Previously, I was a research intern at VinAI Research, where I learned about vision & language research as well as scene text recognition. 
 
-My research interests include computer vision, machine learning, and deep learning. I am actively looking for a MSc/Ph.D. position in Computer Science!
+My research interests include computer vision, machine learning, and deep learning. I am actively looking for a M.Sc./Ph.D. position in Computer Science!
 
 ## News
 - **Aug, 2022**: My paper "Uncertainty-aware Label Distribution Learning for Facial Expression Recognition" was accepted to [WACV 2023](https://wacv2023.thecvf.com).

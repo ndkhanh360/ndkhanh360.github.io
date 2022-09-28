@@ -19,7 +19,7 @@ and improve recognition accuracy. Intensive experiments
 on several datasets under various noisy and ambiguous settings
 show that our method achieves competitive results and
 outperforms recent state-of-the-art approaches.'
-date: 2022-08-16
+date: 2023
 venue: 'WACV 2023'
 citation: '<b>Khanh Nguyen</b><sup>*</sup>, Nhat Le<sup>*</sup>, Quang Tran, Erman Tjiputra, Bac Le, Anh Nguyen (2023). &quot;Uncertainty-aware Label Distribution Learning for Facial Expression Recognition.&quot; <i>WACV 2023</i>.'
 ---
