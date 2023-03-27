@@ -10,9 +10,7 @@ redirect_from:
 
 I'm a recent graduate from VNUHCM-University of Science, majoring in Information Technology. I was honored to be the salutatorian of the Honor Program (cohort 2017) of the Faculty of Information Technology, one of the best IT/CS programs in Vietnam.
 
-I'm currently a teaching assistant at the Department of Computer Science, VNUHCM-University of Science. I'm also an AI Resident at FSoft AI Center, working on equivariant models for graphs and point clouds. Previously, I was a research intern at VinAI Research, where I learned about vision & language research as well as scene text recognition. 
-
-I am interested in computer vision, machine learning, and their real-life applications. I am actively looking for a M.Sc./Ph.D. position in Computer Science.
+I'm currently a teaching assistant at the Department of Computer Science, VNUHCM-University of Science. Previously, I was an AI Resident at FSoft AI Center, working on equivariant models for graphs and point clouds. Before that, I was a research intern at VinAI Research, where I learned about vision & language research as well as scene text recognition. 
 
 ## News
 - **Aug, 2022**: My paper [Uncertainty-aware Label Distribution Learning for Facial Expression Recognition](https://arxiv.org/abs/2209.10448) was accepted to [WACV 2023](https://wacv2023.thecvf.com).
